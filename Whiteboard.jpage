@@ -1,3 +1,5 @@
 ALT+F5 - update Maven project
 CTRL+SHIFT+F - format code
 ALT+SHIFT+S - source menu
+ALT+SHIFT+R - rename-refactoring
+CTRL+1 - quick fix
